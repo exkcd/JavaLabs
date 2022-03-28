@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Random;
 
-public class Sunrays {
+public class ArrayArrays {
     public static void main(String[] args) {
         Sunrays rn = new Sunrays();
         rn.randNum();
