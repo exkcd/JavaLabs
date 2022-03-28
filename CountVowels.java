@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class countVowels {
+public class CountVowels {
     public int countVowels(String str) {
         int counter = 0;
         for (int i = 0; i < str.length(); i++) {
